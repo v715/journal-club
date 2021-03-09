@@ -2,7 +2,7 @@
 
 My goal is to read one academic paper (or watch one talk) per day.
 
-Inspired by a [similar repo](https://github.com/irenetrampoline) by Irene Chen.
+Inspired by a [similar repo](https://github.com/irenetrampoline/papers) from Irene Chen.
 
 ## Papers
 
