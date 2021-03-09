@@ -26,7 +26,7 @@ def _format_author(author: Person) -> str:
 
 
 def _parse_pdf_path(pdf_file: str) -> str:
-    return pdf_file.split(":")[1]
+    return f"<{pdf_file.split(':')[1]}>"
 
 
 def _format_string(key, title, reading_date, authors, pdf_file):

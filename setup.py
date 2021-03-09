@@ -8,8 +8,11 @@ BIB_FILE = "references.bib"
 bib = parse_file(BIB_FILE, "bibtex")
 
 QUEUE_FILE = "queue.txt"
-with open(QUEUE_FILE, "rb") as fp:
-    queue = pickle.load(fp)
+try:
+    with open(QUEUE_FILE, "rb") as fp:
+        queue = pickle.load(fp)
+except FileNotFoundError:
+    queue = []
 
 # %%
 with open("README.md", "a") as f:
