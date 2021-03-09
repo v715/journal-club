@@ -2,6 +2,8 @@
 
 My goal is to read one academic paper (or watch one talk) per day.
 
+Inspired by a [similar repo](https://github.com/irenetrampoline) by Irene Chen.
+
 ## Papers
 
 **2021-03-09:** [A {Review} of {Challenges} and {Opportunities} in {Machine} {Learning} for {Health}](notes/ghassemi_review_2020.md) M. Ghassemi, T. Naumann, P. Schulam, A. L. Beam, I. Y. Chen, R. Ranganath [[PDF]](<files/757/Ghassemi et al. - 2020 - A Review of Challenges and Opportunities in Machin.pdf>)
